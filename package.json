@@ -21,6 +21,7 @@
         "theme",
         "template"
     ],
+    "homepage": "https://startbootstrap.com/theme/agency",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-agency/issues",
         "email": "feedback@startbootstrap.com"
@@ -32,7 +33,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Sarahx3/Proyecto-1-Pagina-estatica"
+        "url": "https://github.com/StartBootstrap/startbootstrap-agency.git"
     },
     "dependencies": {
         "bootstrap": "5.1.3"
