@@ -1,7 +1,4 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "7.0.11",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets && mkdir -p dist && cp -R src/* dist/",
         "build:assets": "node scripts/build-assets.js",
@@ -20,16 +17,6 @@
         "responsive",
         "theme",
         "template"
-    ],
-    "homepage": "https://startbootstrap.com/theme/agency",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
     ],
     "dependencies": {
         "bootstrap": "5.1.3"
